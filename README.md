@@ -1,2 +1,2 @@
-# -translate_server
+# transerver
   translate server
